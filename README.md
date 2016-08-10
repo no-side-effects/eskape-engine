@@ -1,6 +1,6 @@
 # eskape
 
-FIXME
+An SQL engine on top of Elasticsearch.
 
 ## Prerequisites
 
